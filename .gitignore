@@ -1,0 +1,5 @@
+csce322a1p*.java
+csce322a1p*.tokens
+*.class
+
+!csce322a1p[12]d.java
