@@ -1,0 +1,18 @@
+line 3:0 token recognition error at: '< '
+line 3:2 token recognition error at: '- '
+Start Section: <-
+Section: Level
+Assignment: =
+Number: 98
+End Section: ->
+Start Section: <-
+Section: Score
+Assignment: =
+Number: 0000
+End Section: ->
+line 3:4 extraneous input 'Map' expecting {<EOF>, '<-'}
+Start Section: <-
+Section: Lives
+Assignment: =
+Number: 3
+End Section: ->

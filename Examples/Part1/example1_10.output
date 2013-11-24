@@ -1,0 +1,21 @@
+line 3:3 token recognition error at: 'm'
+line 3:4 token recognition error at: 'a'
+line 3:5 token recognition error at: 'p'
+Start Section: <-
+Section: Level
+Assignment: =
+Number: 98
+End Section: ->
+Start Section: <-
+Section: Score
+Assignment: =
+Number: 0000
+End Section: ->
+Start Section: <-
+line 3:7 mismatched input '=' expecting {'Level', 'Score', 'Map', 'Lives', WS}
+Start Section: <-
+Section: Lives
+Assignment: =
+Number: 3
+line 14:14 missing '"' at '->'
+End Section: ->
