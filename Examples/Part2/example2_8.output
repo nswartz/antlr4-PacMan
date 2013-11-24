@@ -1,0 +1,5 @@
+line 13:25 token recognition error at: '/'
+line 13:26 token recognition error at: '>'
+Semantic Rule 2 Violated
+Semantic Rule 2 Violated
+line 14:0 mismatched input '<-' expecting {'->', WS}
