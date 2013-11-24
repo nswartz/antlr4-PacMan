@@ -9,14 +9,18 @@ To run the program :
 - run the following commands
 
 Part 1:
-	antlr4 csce322a1p1.g
-	javac csce322a1p1*.java
-	java csce322a1p1d .\PATH\file.pac
+> antlr4 csce322a1p1.g
+
+> javac csce322a1p1*.java
+
+> java csce322a1p1d .\PATH\file.pac
 
 Part 2: 
-	antlr4 csce322a1p2.g
-	javac csce322a1p2*.java
-	java csce322a1p2d .\PATH\file.pac
+> antlr4 csce322a1p2.g
+
+> javac csce322a1p2*.java
+
+> java csce322a1p2d .\PATH\file.pac
 
 Assumptions:
 
